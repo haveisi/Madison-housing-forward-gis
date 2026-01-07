@@ -1,2 +1,31 @@
-# Madison-housing-forward-gis
-GIS-based analysis of Madison’s Housing Forward zoning reforms, integrating affordability, housing age, transit access, and LEED-informed performance indicators to identify high-opportunity areas for missing-middle housing
+# Madison-housing-forward-gis– Madison, WI
+
+This project applies GIS and LEED-informed performance concepts to evaluate where Madison’s Housing Forward zoning reforms (duplexes, ADUs, mid-scale infill) are most likely to deliver public benefit.
+
+## Purpose
+Zoning reform determines where housing can be built. Building performance and location efficiency determine how well housing serves residents over time. This analysis integrates both lenses to support policy discussion.
+
+## Methods
+Census tracts were evaluated using four indicators:
+- Affordability pressure (normalized median household income)
+- Housing age (share of housing built before 1980)
+- Location efficiency (proximity to transit and essential services)
+- Zoning eligibility for missing-middle housing
+
+Indicators were normalized (0–1) and combined into a composite Opportunity Index. Tracts were classified into High, Moderate, and Lower opportunity categories.
+
+## Tools
+- ArcGIS Pro (spatial analysis, joins, indexing)
+- U.S. Census ACS 5-year estimates
+- City of Madison Open Data
+- LEED Location & Transportation and Energy principles (conceptual alignment)
+
+## Outputs
+- Policy-ready opportunity map
+- Tract-level Opportunity Index
+- Reproducible GIS workflow documentation
+
+## Applications
+- Local housing policy analysis
+- Sustainable community planning
+- LEED-informed decision support
