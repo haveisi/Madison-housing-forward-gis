@@ -29,6 +29,6 @@ Indicators were normalized (0–1) and combined into a composite Opportunity Ind
 - Local housing policy analysis
 - Sustainable community planning
 - LEED-informed decision support
-- 
+  
 ## Relevance
 This analysis demonstrates how LEED principles (Location & Transportation, Energy & Atmosphere, and Indoor Environmental Quality) can inform housing and land-use policy at the neighborhood scale.
