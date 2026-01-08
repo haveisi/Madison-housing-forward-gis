@@ -21,11 +21,14 @@ Indicators were normalized (0–1) and combined into a composite Opportunity Ind
 - LEED Location & Transportation and Energy principles (conceptual alignment)
 
 ## Outputs
-- Policy-ready opportunity map
-- Tract-level Opportunity Index
-- Reproducible GIS workflow documentation
+- Policy-ready map (PDF)
+- Preview map (PNG)
+- Processed geodatabase with final opportunity layers
 
 ## Applications
 - Local housing policy analysis
 - Sustainable community planning
 - LEED-informed decision support
+- 
+## Relevance
+This analysis demonstrates how LEED principles (Location & Transportation, Energy & Atmosphere, and Indoor Environmental Quality) can inform housing and land-use policy at the neighborhood scale.
