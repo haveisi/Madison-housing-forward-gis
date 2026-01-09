@@ -22,7 +22,8 @@ Indicators were normalized (0–1) and combined into a composite Opportunity Ind
 
 ## Outputs
 - Policy-ready map (PDF)
-- Preview map (PNG)-## Housing Forward Opportunity Areas (Madison, WI) ![Housing Forward Opportunity Areas](maps/maps/Housing_Forward_Opportunity_Areas_Madison.png.jpg) -Areas where missing-middle zoning and high-performance housing  deliver the greatest public benefit.
+- Preview map (PNG)-## Housing Forward Opportunity Areas (Madison, WI) ![Housing Forward Opportunity Areas](maps/maps/Housing_Forward_Opportunity_Areas_Madison.png.jpg)
+- Areas where missing-middle zoning and high-performance housing  deliver the greatest public benefit.
 - Processed geodatabase with final opportunity layers
 
 ## Applications
